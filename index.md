@@ -8,3 +8,7 @@ I have made the file a file and written in it now.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Work on assignment
+- [x] Make a list
+- [ ] Finish Assignment
